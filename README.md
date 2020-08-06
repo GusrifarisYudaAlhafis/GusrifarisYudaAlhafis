@@ -24,11 +24,10 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/livewire/livewire.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpstorm/phpstorm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
 
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&include_all_commits=true&theme=algolia)
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
-![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GusrifarisYudaAlhafis&repo=GusrifarisYudaAlhafis&theme=algolia)
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GusrifarisYudaAlhafis&repo=GameHumanRun&theme=algolia)
