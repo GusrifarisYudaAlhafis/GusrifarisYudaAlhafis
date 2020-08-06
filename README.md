@@ -19,4 +19,16 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [here](https://instagram.com/gusrifarisyudaalhafis)
 
-![Afis's Github Stats](https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&theme=radical)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/livewire/livewire.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpstorm/phpstorm.png"></code>
+
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&include_all_commits=true&theme=algolia)
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GusrifarisYudaAlhafis&repo=GusrifarisYudaAlhafis&theme=algolia)
