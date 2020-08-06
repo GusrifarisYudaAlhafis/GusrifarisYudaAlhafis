@@ -17,7 +17,7 @@
 - 👨🏻‍💻 I am student at Informatics Engineering UIN Sultan Syarif Kasim Riau
 - 🌱 I’m currently learning Flutter and Laravel
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [here](https://instagram.com/gusrifarisyudaalhafis)
+- 📫 How to reach me: [here](https://ini.space/afis)
 
 
 **Languages and Tools:**  
@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&include_all_commits=true&theme=algolia)
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
