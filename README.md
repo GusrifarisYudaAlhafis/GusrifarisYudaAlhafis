@@ -29,5 +29,5 @@
 
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&include_all_commits=true&theme=algolia)
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
-![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GusrifarisYudaAlhafis&repo=GameHumanRun&theme=algolia)
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GusrifarisYudaAlhafis&repo=SIG&theme=algolia)
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GusrifarisYudaAlhafis&repo=SIK&theme=algolia)
