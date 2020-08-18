@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/gusrifarisyudaalhafis"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Gusrifaris Yuda Alhafis. 👋🏻:octocat:</h2>
+<h2 align="center">Hello there! My name is Gusrifaris Yuda Alhafis. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" :octocat:</h2>
 <p align="center">All of source code from me store in here.</p>
 
 <p align="center">
