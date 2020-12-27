@@ -17,7 +17,7 @@
 - 👨🏻‍💻 I am student at Informatics Engineering UIN Sultan Syarif Kasim Riau
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [here](https://ini.space/afis)
+- 📫 How to reach me: [here](https://biolinky.co/afis)
 
 
 **Languages and Tools:**  
