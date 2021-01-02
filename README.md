@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Gusrifaris Yuda Alhafis. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :octocat:</h2>
+<h2 align="center">Hello there! Welcome to my repo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :octocat:</h2>
 <p align="center">All of source code from me store in here.</p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I am student at Informatics Engineering UIN Sultan Syarif Kasim Riau
-- 🌱 I’m currently learning Flutter, Laravel, and Nuxt
+- 🌱 I’m currently learning Flutter, Laravel, and Vue
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [here](https://biolinky.co/afis)
 
@@ -18,7 +18,7 @@
 
 - Flutter (Dart)
 - Laravel (PHP)
-- Nuxt (JavaScript)
+- Vue (JavaScript)
 
 **Stats:**  
 
