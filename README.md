@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! Welcome to my repo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :octocat:</h2>
-[![HitCount](http://hits.dwyl.com/GusrifarisYudaAlhafis/GusrifarisYudaAlhafis.svg)](http://hits.dwyl.com/GusrifarisYudaAlhafis/GusrifarisYudaAlhafis)
+https://hits.dwyl.com/GusrifarisYudaAlhafis/GusrifarisYudaAlhafis.svg)](http://hits.dwyl.com/GusrifarisYudaAlhafis/GusrifarisYudaAlhafis
 <p align="center">All of source code from me store in here.</p>
 
 <p align="center">
