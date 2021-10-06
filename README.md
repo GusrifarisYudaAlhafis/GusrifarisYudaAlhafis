@@ -27,5 +27,5 @@
 
 **Stats:**  
 
-![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
-![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
+![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
