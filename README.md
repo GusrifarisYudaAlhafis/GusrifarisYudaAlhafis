@@ -26,6 +26,12 @@
 - Vue (JavaScript)
 
 **Stats:**  
-
+<div align="center">
+ 
+![Gusrifaris Yuda Alhafis's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=GusrifarisYudaAlhafis&theme=algolia)
+ 
 ![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
-![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
+ 
+![Gusrifaris Yuda Alhafis's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
+ 
+</div>
