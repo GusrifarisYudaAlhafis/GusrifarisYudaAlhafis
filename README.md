@@ -1,37 +1,36 @@
-<h2 align="center">Hello there! Welcome to my repo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :octocat:</h2>
-<div align="center"> 
- 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGusrifarisYudaAlhafis&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-</div>
-<p align="center">All of source code from me store in here.</p>
+<h1 align="center">Hi, I'm Afis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">I'm a final year informatics engineering student who is interested in programming.</h3>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <img src="https://visitor-badge.glitch.me/badge?page_id=GusrifarisYudaAlhafis" />
 </p>
 
+## 🤝🏻 Connect with Me!
+[![Email: gusrifaris12@gmail.com](https://img.shields.io/badge/-gusrifaris12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gusrifaris12@gmail.com)
+[![LinkedIn: Gusrifaris Yuda Alhafis](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusrifarisyudaalhafis/)](https://www.linkedin.com/in/gusrifarisyudaalhafis/)&nbsp;
+[![Instagram: Follow gusrifarisyudaalhafis](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gusrifarisyudaalhafis)&nbsp;
+[![Telegram: gusrifarisyudaalhafis](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/GusrifarisYudaAlhafis)](https://t.me/GusrifarisYudaAlhafis)&nbsp;
 
-**Talking about Personal Stuffs:**
+## 🛠 Tech Stack
+  [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/GusrifarisYudaAlhafis/)&nbsp;
+  [![Flutter](https://img.shields.io/badge/Flutter-0468D7?style=flat&logo=flutter)](https://g.dev/gusrifarisyudaalhafis)&nbsp;
+  [![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)&nbsp;
+  [![Vue](https://img.shields.io/badge/Vue-42D392?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)&nbsp;
+  [![GO](https://img.shields.io/badge/GO-007D9C.svg?style=flat&logo=go&logoColor=white)](https://go.dev/)&nbsp;
+  [![Laravel](https://img.shields.io/badge/Laravel-F9322C.svg?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)&nbsp;
+  [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)&nbsp;
 
-- 👨🏻‍💻 I am student at Informatics Engineering UIN Sultan Syarif Kasim Riau
-- 🌱 I’m currently learning Flutter, Laravel, and Vue
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [here](https://biolinky.co/afis)
+## 📈 Github Stats
+  
+| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"> | <img align="center" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&hide_border=true&theme=algolia">
+| ------------- | ------------- |  
 
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com?user=GusrifarisYudaAlhafis&hide_border=true&theme=algolia">
+| ------------- |
 
-**Languages and Frameworks:**  
+---
 
-- Flutter (Dart)
-- Laravel (PHP)
-- Vue (JavaScript)
+<img src="https://github-profile-trophy.vercel.app/?username=GusrifarisYudaAlhafis&layout=compact&hide_border=true&theme=algolia" />
 
-**Stats:**  
-<div align="center">
- 
-![Gusrifaris Yuda Alhafis's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=GusrifarisYudaAlhafis&theme=algolia)
- 
-![Gusrifaris Yuda Alhafis's Github Stats](https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
- 
-![Gusrifaris Yuda Alhafis's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&theme=algolia)
- 
-</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=GusrifarisYudaAlhafis&hide_border=true&theme=react-dark" />
