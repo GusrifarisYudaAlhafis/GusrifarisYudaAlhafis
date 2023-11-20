@@ -29,4 +29,4 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=GusrifarisYudaAlhafis&no-bg=true&no-frame=true&layout=compact&hide_border=true&theme=algolia" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=GusrifarisYudaAlhafis&hide_border=true&theme=transparent" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GusrifarisYudaAlhafis&hide_border=true&theme=github-dark" />
