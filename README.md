@@ -19,7 +19,7 @@
 
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=percentile"> | <img align="center" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&hide_border=true&theme=transparent">
+| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=GusrifarisYudaAlhafis&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"> | <img align="center" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusrifarisYudaAlhafis&layout=compact&hide_progress=true&hide_border=true&theme=transparent">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com?user=GusrifarisYudaAlhafis&hide_border=true&theme=transparent">
