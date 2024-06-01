@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Afis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">I'm fresh graduated of Bachelor Informatics Engineering who has passion and interested in programming.</h3>
+<h3 align="center">I'm an experienced Software Development Engineer with proven track record in creating mobile and web applications.</h3>
 
 ## 🤝🏻 Connect with Me!
 [![Email: gusrifaris12@gmail.com](https://img.shields.io/badge/-gusrifaris12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gusrifaris12@gmail.com)
